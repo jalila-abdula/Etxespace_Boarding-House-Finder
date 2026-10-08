@@ -1,0 +1,4 @@
+{
+  // Use Android Studio's bundled JDK for Gradle instead of an older JAVA_HOME.
+  "java.import.gradle.java.home": "C:\\Program Files\\Android\\Android Studio\\jbr"
+}

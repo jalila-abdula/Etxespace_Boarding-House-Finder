@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "844804335874",
+    "project_id": "etxespace-findersytem",
+    "storage_bucket": "etxespace-findersytem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844804335874:android:c9b63b05e858958730fa1b",
+        "android_client_info": {
+          "package_name": "com.etxespace.etxespace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844804335874-ofkq720se4tmp52vnvkd9jr31fvppnp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etxespace.etxespace",
+            "certificate_hash": "ec4cd7a2919a1d01ff03437a0b928de48d980619"
+          }
+        },
+        {
+          "client_id": "844804335874-s4v5l7u8pt87egop1r58d7ro5sb5u91q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrpeRcr2Od0ZJMrxSO11xJaSV7OjkPqpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844804335874-s4v5l7u8pt87egop1r58d7ro5sb5u91q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844804335874-qatsersr7kvurbhjv2q4upc7prs9vifv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.etxespaceFinder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844804335874:android:52ed39df1f328ea330fa1b",
+        "android_client_info": {
+          "package_name": "com.example.etxespace_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844804335874-b7f2o8p6091f0fvevfkpgtj3irddt041.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etxespace_finder",
+            "certificate_hash": "ec4cd7a2919a1d01ff03437a0b928de48d980619"
+          }
+        },
+        {
+          "client_id": "844804335874-s4v5l7u8pt87egop1r58d7ro5sb5u91q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrpeRcr2Od0ZJMrxSO11xJaSV7OjkPqpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844804335874-s4v5l7u8pt87egop1r58d7ro5sb5u91q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844804335874-qatsersr7kvurbhjv2q4upc7prs9vifv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.etxespaceFinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
